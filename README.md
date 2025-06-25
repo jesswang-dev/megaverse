@@ -1,5 +1,7 @@
 ## megaverse
 
+Prerequisite: Node installed locally
+
 To run Typescript script:
 
 1. Install dependency
